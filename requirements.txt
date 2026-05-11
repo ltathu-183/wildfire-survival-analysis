@@ -1,0 +1,23 @@
+# Core
+numpy==1.26.4
+pandas==2.2.2
+scipy==1.13.1
+
+# ML 
+scikit-learn>=1.4.0
+lightgbm==4.3.0
+xgboost==2.0.3
+
+# Survival analysis
+lifelines==0.28.0
+
+# Geo / spatial (Phiên bản mới hơn thường có wheel sẵn cho Win)
+shapely>=2.0.1
+geopandas>=0.14.0
+
+# Utils & Notebook
+matplotlib==3.8.4
+seaborn==0.13.2
+tqdm==4.66.4
+joblib==1.4.2
+ipykernel

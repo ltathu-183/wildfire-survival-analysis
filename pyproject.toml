@@ -1,0 +1,22 @@
+[project]
+name = "wid"
+version = "0.1.0"
+description = "Survival analysis and ML project"
+readme = "README.md"
+requires-python = "==3.11.*"
+dependencies = [
+    "ipykernel>=7.2.0",
+    "numpy",
+    "pandas",
+    "matplotlib",
+    "seaborn",
+    "plotly",
+    "lifelines",
+    "scipy",
+    "statsmodels",
+    "scikit-learn",
+    "scikit-survival",
+    "xgboost",
+    "optuna",
+    "nbformat>=5.10.4",
+]
